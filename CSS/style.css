@@ -1,0 +1,95 @@
+body {
+    background-color: hsl(257, 40%, 49%);
+
+
+}
+
+h1 {
+    margin: 0;
+    font-weight: 600;
+    
+}
+
+.bg-desktop {
+    position: fixed;
+    top: 0;
+    left: 0;
+    float: left;
+    width: 100%;
+
+
+}
+
+.buildCommunity {
+    color: aliceblue;
+    font-family: 'open-sans', sans-serif;
+    font-weight: 400;
+    line-height: 2;
+    text-align: left;
+    position: relative;
+    margin: 100px 0 15% 65%;
+    
+}
+
+
+.this-picture {
+    position: relative;
+    margin-left: 65px;
+    height: 40px;
+    width: 80px;
+    
+    
+
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+    visibility: hidden;
+
+}
+
+
+.button {
+    backface-visibility: hidden;
+    position: relative;
+    cursor: pointer;
+    display: inline-block;
+    white-space: nowrap;
+    background: #fdecfe;
+    border-radius: 80px;
+    border: 1px solid #1d161d;
+    border-width: 1px 01px 1px 1px;
+    padding: 10px 45px 10px 45px;
+    box-shadow: inset 0px 1px 0px rgba(255, 255, 255, 1), 0px 1px 3px rgba(0, 0, 0, 0.3);
+    color: #684bb0;
+    font-size: 14px;
+    font-family: century gothic;
+    
+    font-style: normal;
+    text-shadow: 0px -1px 0px rgba(0, 0, 0, 0.4)
+}
+
+.button>div {
+    color: #999;
+    font-size: 10px;
+    font-family: Helvetica Neue;
+    
+    font-style: normal;
+    text-align: center;
+    margin: 0px 0px 0px 0px
+}
+
+.button>i {
+    font-size: 1em;
+    border-radius: 0px;
+    border: 0px solid transparent;
+    border-width: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+    position: static
+}
+
+.button>.ld {
+    font-size: initial
+}
